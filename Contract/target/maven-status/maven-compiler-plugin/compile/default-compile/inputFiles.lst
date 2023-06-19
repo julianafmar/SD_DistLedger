@@ -1,0 +1,9 @@
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/distledger/contract/user/UserDistLedger.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/distledger/contract/namingserver/NamingServerServiceGrpc.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/distledger/contract/admin/AdminDistLedger.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/distledger/contract/admin/AdminServiceGrpc.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/distledger/contract/distledgerserver/CrossServerDistLedger.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/distledger/contract/namingserver/CrossNamingServer.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/java/pt/ulisboa/tecnico/distledger/contract/DistLedgerCommonDefinitions.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/distledger/contract/distledgerserver/DistLedgerCrossServerServiceGrpc.java
+/home/jully/A33-DistLedger/Contract/target/generated-sources/protobuf/grpc-java/pt/ulisboa/tecnico/distledger/contract/user/UserServiceGrpc.java

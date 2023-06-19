@@ -1,0 +1,11 @@
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/domain/operation/TransferOp.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/AdminServiceImpl.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/domain/client/User.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/DistLedgerCrossServerServiceImpl.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/domain/ServerState.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/domain/operation/CreateOp.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/grpc/DistLedgerCrossServerService.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/UserServiceImpl.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/ServerMain.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/domain/operation/Operation.java
+/home/jully/A33-DistLedger/DistLedgerServer/src/main/java/pt/tecnico/distledger/server/domain/operation/DeleteOp.java

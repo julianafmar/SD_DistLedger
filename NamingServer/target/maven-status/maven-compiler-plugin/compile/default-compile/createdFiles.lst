@@ -1,0 +1,5 @@
+pt/tecnico/distledger/namingserver/domain/ServiceEntry.class
+pt/tecnico/distledger/namingserver/domain/NamingServer.class
+pt/tecnico/distledger/namingserver/domain/ServerEntry.class
+pt/tecnico/distledger/namingserver/NamingServerMain.class
+pt/tecnico/distledger/namingserver/NamingServerServiceImpl.class
